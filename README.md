@@ -1,1 +1,1 @@
-# progetto-java-e-commerce-di-prodotti-e-servizi
+# e-commerce-di-prodotti e servizi
